@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Utsav Pathak
 - 👀 I’m interested in android and web dev
 - 🌱 I’m currently learning dsa in cpp
-- 💞️ I’m looking to collaborate on a app that i hav in mind
 - 📫 How to reach me insta handle @_utsavvvv or mail me at utsavpathak59@gmail.com
 
 <!---
